@@ -1,164 +1,75 @@
-# <div align="center">👋 Hi, I'm **Suprit Totigeri**</div>
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-### 🚀 AI Engineer • Full Stack Java Developer • Building Intelligent Applications
-
-<p>
-Passionate about designing AI-powered applications, developing intelligent software systems, and creating scalable solutions that solve real-world problems using Machine Learning, Generative AI, and Full Stack Development.
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Java+Developer;Building+Intelligent+Applications;Machine+Learning+%7C+Generative+AI;Spring+Boot+%7C+React+%7C+Python;Always+Learning+New+Technologies" />
+---
 
-</div>
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-5E17EB?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 About Me
+### 📚 AI Libraries & Frameworks
 
-🤖 AI Engineer passionate about building intelligent software using Machine Learning and Generative AI.
-
-💻 Full Stack Java Developer experienced in developing scalable web applications with Spring Boot and React.
-
-🧠 Interested in Semantic Search, Retrieval-Augmented Generation (RAG), LLM Applications, Recommendation Systems, and AI Automation.
-
-☁️ Currently exploring Cloud Computing, Docker, Kubernetes, Microservices, and AI Deployment.
-
-📚 Continuously learning modern AI technologies including LLMs, AI Agents, Vector Databases, and System Design.
-
-🎯 Goal: Build production-ready AI products that solve real-world problems.
-
----
-
-# 🌟 Featured AI Projects
-
-## 🧠 Code Sherpa — Semantic Code Search Assistant
-
-An AI-powered semantic code search and explanation tool that helps developers explore unfamiliar codebases using natural language instead of keyword search.
-
-### Key Features
-
-✔ Semantic Code Search
-
-✔ Natural Language Queries
-
-✔ AI-powered Code Explanation
-
-✔ Developer Productivity Tool
-
-✔ Understand Large Codebases Faster
-
-**Tech Stack**
-
-Python • Sentence Transformers • Vector Search • FastAPI • Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎬 Movie Recommendation System
+### 🌐 Full Stack Development
 
-An intelligent recommendation engine that suggests personalized movies based on user preferences using machine learning algorithms.
-
-✔ Recommendation Engine
-
-✔ Content-Based Filtering
-
-✔ Similarity Search
-
-✔ Personalized Suggestions
-
-**Tech Stack**
-
-Python • Pandas • Scikit-Learn • Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 📧 Email Content Classifier
+### ☁️ Cloud & DevOps
 
-A machine learning application that automatically classifies emails into categories using Natural Language Processing.
-
-✔ Email Classification
-
-✔ Text Preprocessing
-
-✔ NLP Pipeline
-
-✔ Machine Learning Model
-
-**Tech Stack**
-
-Python • Scikit-Learn • NLP • Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 AI Concept Generator
+### 🛠️ Development Tools
 
-An AI application that generates innovative project ideas and concepts based on user prompts using Generative AI techniques.
-
-✔ AI-powered Idea Generation
-
-✔ Prompt-based Concept Creation
-
-✔ Intelligent Suggestions
-
-✔ Creative Assistance
-
-**Tech Stack**
-
-Python • Generative AI • NLP
-
----
-
-## 🔒 Phishing Website Detection
-
-Machine Learning based cybersecurity application for detecting malicious websites.
-
-✔ Feature Engineering
-
-✔ Model Training
-
-✔ Website Classification
-
-✔ Prediction API
-
-**Tech Stack**
-
-Python • Scikit-Learn • Flask
-
----
-
-## 📊 Data Analytics Dashboard
-
-Interactive dashboard for analyzing business performance using Python, SQL, and Power BI.
-
-✔ Business KPI Dashboard
-
-✔ Data Visualization
-
-✔ SQL Analytics
-
-✔ Business Insights
-
-**Tech Stack**
-
-Python • SQL • Power BI
-
----
-
-# 📈 Current Focus
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* ✨ Generative AI
-* 🔍 Semantic Search
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents
-* ☁️ Cloud & AI Deployment
-* 🏗️ System Design
-* ⚡ Full Stack Development
-* 🚀 Open Source
-
----
-
-# 💭 Developer Philosophy
-
-> **"Building intelligent applications that transform ideas into impactful solutions."**
+<p align="left">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
