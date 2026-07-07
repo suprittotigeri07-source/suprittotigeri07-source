@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E.%20Electronics%20%26%20Communication%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -34,6 +34,7 @@
 engineer:
   name: "Suprit Totiger"
   role: "AI Engineer & Full Stack Developer"
+  education: "B.E. in Electronics and Communication Engineering"
   focus:
     - Designing production-grade Machine Learning & Generative AI systems
     - Building scalable full stack applications with Java (Spring Boot) & Python
@@ -246,44 +247,12 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Excellence | Consistent strong academic performance in Computer Science |
+| 🎓 Academic Excellence | Completed B.E. in Electronics and Communication Engineering with strong performance |
 | 🤖 AI/ML Project Portfolio | Delivered multiple production-style ML & GenAI applications |
 | 💻 Full Stack Delivery | Built and shipped complete Java + React application stacks |
 | 📈 Continuous Learning | Actively upskilling in LLMs, RAG, and Cloud-Native engineering |
 
 </div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## 📜 Certifications
-
-**AWS**
-
-<p>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-**Oracle**
-
-<p>
-<img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-**NPTEL**
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL%20Certified-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</p>
-
-**Cisco**
-
-<p>
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
 
 <div align="center">
 
@@ -306,51 +275,10 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6"/>
-</p>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
 ## 🏅 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-</p>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
-</p>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <div align="center">
