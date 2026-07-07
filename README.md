@@ -35,7 +35,7 @@ engineer:
   name: "Suprit Totiger"
   role: "AI Engineer & Full Stack Developer"
   education: "B.E. in Electronics and Communication Engineering"
-  college: "YOUR_COLLEGE_NAME"
+  college: "VSM SOMASHEKAR R KOTIVALE INSTITUE OF TECHNOLOGY"
   focus:
     - Designing production-grade Machine Learning & Generative AI systems
     - Building scalable full stack applications with Java (Spring Boot) & Python
