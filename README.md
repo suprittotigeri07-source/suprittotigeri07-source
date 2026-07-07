@@ -1,569 +1,412 @@
- <h1 align="center">Hi 👋, I'm Suprit Totiger </h1>
-
-
-
-<h3 align="center">
-
-🤖 AI Engineer • Machine Learning Engineer • Full Stack Java Developer
-
-</h3>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Suprit%20Totiger&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Java%20Developer&descAlignY=58&descSize=18"/>
 
 <p align="center">
-
-Building intelligent applications using Machine Learning, Generative AI, LLMs, Semantic Search, and Full Stack Development.
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+LLMs+%7C+RAG+Pipelines;Full+Stack+Engineer+%7C+Java+%2B+Python;Cloud+Native+%7C+Docker+%7C+Kubernetes+%7C+AWS;Always+Shipping.+Always+Learning." />
 </p>
-
-
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+Semantic+Search;Python+%7C+FastAPI+%7C+Spring+Boot;Always+Learning+New+Technologies" />
-
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
-
-
-
----
-
-
-
-## 🚀 About Me
-
-
-
-- 🤖 AI Engineer passionate about building intelligent applications using Machine Learning and Generative AI.
-
-- 🧠 Interested in LLMs, Retrieval-Augmented Generation (RAG), Semantic Search, Recommendation Systems, and AI Agents.
-
-- 💻 Strong foundation in Python, Machine Learning, NLP, Java, Spring Boot, and React.
-
-- ☁️ Exploring MLOps, Docker, Kubernetes, AWS, and Cloud AI.
-
-- 📚 Currently learning Deep Learning, LangChain, Vector Databases, and System Design.
-
-- 🎯 Goal: Build production-ready AI applications that solve real-world problems.
-
-
-
----
-
-
-
-# 🛠️ Tech Stack
-
-
-
-## 💻 Programming Languages
-
-
-
-<p>
-
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-## 🤖 Artificial Intelligence
-
-
-
-<p>
-
-
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/Semantic%20Search-7C3AED?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/AI%20Agents-5B21B6?style=for-the-badge"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-## 📚 AI Libraries
-
-
-
-<p>
-
-
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
-
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-## 🌐 Full Stack
-
-
-
-<p>
-
-
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot"/>
-
-
-
-<img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge"/>
-
-
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-
-
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-## ☁️ DevOps & Cloud
-
-
-
-<p>
-
-
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-
-
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 🚀 Featured Projects
-
-
-
-## 🧠 Code Sherpa
-
-
-
-### AI Semantic Code Search & Explanation Tool
-
-
-
-Code Sherpa helps developers explore unfamiliar codebases using natural language instead of keyword search.
-
-
-
-### Features
-
-
-
-- 🔍 Semantic Code Search
-
-- 🤖 AI Code Explanation
-
-- 💬 Natural Language Queries
-
-- 📂 Understand Large Codebases
-
-- ⚡ FastAPI Backend
-
-
-
-**Tech Stack**
-
-
-
-Python • Sentence Transformers • FastAPI • Vector Search
-
-
-
----
-
-
-
-## 🎬 Movie Recommendation System
-
-
-
-Machine Learning recommendation engine that suggests movies based on similarity and user preferences.
-
-
-
-### Features
-
-
-
-- Personalized Recommendation
-
-- Similarity Search
-
-- Content-Based Filtering
-
-- Recommendation Engine
-
-
-
-**Tech Stack**
-
-
-
-Python • Pandas • Scikit-Learn
-
-
-
----
-
-
-
-## 📧 Email Content Classifier
-
-
-
-Machine Learning model that automatically classifies emails using NLP.
-
-
-
-### Features
-
-
-
-- Email Classification
-
-- NLP Pipeline
-
-- Text Cleaning
-
-- Feature Extraction
-
-
-
-**Tech Stack**
-
-
-
-Python • NLP • Scikit-Learn
-
-
-
----
-
-
-
-## 💡 AI Concept Generator
-
-
-
-Generative AI application that generates innovative software and startup ideas.
-
-
-
-### Features
-
-
-
-- Prompt Engineering
-
-- AI Idea Generation
-
-- Intelligent Suggestions
-
-- Creativity Assistant
-
-
-
-**Tech Stack**
-
-
-
-Python • Generative AI
-
-
-
----
-
-
-
-## 🛡️ Phishing Website Detection
-
-
-
-Machine Learning cybersecurity application that predicts malicious websites.
-
-
-
-### Features
-
-
-
-- Website Classification
-
-- Feature Engineering
-
-- Prediction API
-
-- Flask Deployment
-
-
-
-**Tech Stack**
-
-
-
-Python • Flask • Scikit-Learn
-
-
-
----
-
-
-
-## 📊 Data Analytics Dashboard
-
-
-
-Interactive dashboard for business intelligence.
-
-
-
-### Features
-
-
-
-- KPI Dashboard
-
-- SQL Analytics
-
-- Power BI Reports
-
-- Business Insights
-
-
-
-**Tech Stack**
-
-
-
-Python • SQL • Power BI
-
-
-
----
-
-# 📚 Currently Learning
-
-
-
-- 🤖 Large Language Models (LLMs)
-
-- 📚 Retrieval-Augmented Generation (RAG)
-
-- 🧠 AI Agents
-
-- ⚡ LangChain
-
-- 📦 Vector Databases
-
-- 🧠 Deep Learning
-
-- ☁️ AWS
-
-- 🐳 Docker
-
-- ☸️ Kubernetes
-
-- 🚀 MLOps
-
-
-
----
-
-
-
-# 📫 Connect With Me
-
-
-
-<p align="left">
-
-
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-
-
-<a href="YOUR_PORTFOLIO_URL">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-
-
-</p>
-
-
-
----
-
-
-
-# 💭 Philosophy
-
-
-
-> **"Artificial Intelligence is not just about building smarter models—it's about building smarter solutions that create real-world impact."**
-
-
-
----
-
-
-
-<h3 align="center">
-
-
-
-⭐ Thanks for visiting my profile ⭐
-
-
-
-</h3>
-
-
 
 <p align="center">
-
-
-
-Building AI that understands, learns, and creates impact.
-
-
-
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&logo=github"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&logo=github"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🧬 About Me
+
+```yaml
+engineer:
+  name: "Suprit Totiger"
+  role: "AI Engineer & Full Stack Developer"
+  focus:
+    - Designing production-grade Machine Learning & Generative AI systems
+    - Building scalable full stack applications with Java (Spring Boot) & Python
+    - Engineering semantic search, RAG pipelines, and LLM-powered applications
+    - Applying product-thinking to every technical decision
+  philosophy: "Ship intelligent systems that solve real problems, not just impressive demos."
+  open_to:
+    - AI / ML Engineer roles
+    - Backend / Full Stack Engineer roles
+    - Applied AI & GenAI Research
+    - Open Source Collaboration
+    - Freelance / Contract AI Projects
+```
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql&theme=dark"/>
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,postgresql,mysql,mongodb&theme=dark"/>
+</p>
+
+**Cloud, DevOps & Tooling**
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&theme=dark"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🧠 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation |
+| **Deep Learning** | ⭐⭐⭐⭐ | Neural Networks, CNNs, Transfer Learning Fundamentals |
+| **NLP** | ⭐⭐⭐⭐ | Text Classification, Embeddings, Tokenization Pipelines |
+| **Generative AI / LLMs** | ⭐⭐⭐⭐ | Prompt Engineering, LLM Integration, Application Design |
+| **RAG Systems** | ⭐⭐⭐⭐ | Retrieval Pipelines, Vector Search, Context Grounding |
+| **Semantic Search** | ⭐⭐⭐⭐ | Sentence Transformers, Vector Similarity, Embedding Search |
+| **AI Agents** | ⭐⭐⭐ | Agentic Workflows, Tool-Using LLM Systems |
+| **MLOps** | ⭐⭐⭐ | Model Deployment, Containerization, CI/CD for ML |
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🧠 Code Sherpa — AI Semantic Code Search & Explanation Tool</b></summary>
+<br>
+
+Code Sherpa helps developers explore unfamiliar codebases using natural language instead of keyword search, combining semantic embeddings with LLM-based explanation to accelerate onboarding into large repositories.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Sentence Transformers, FastAPI, Vector Search |
+| **Scale** | Designed to index and query multi-thousand-file codebases |
+| **Performance** | Sub-second semantic retrieval via vector similarity search |
+| **Security** | Read-only codebase access, sandboxed query execution |
+| **Impact** | Reduces onboarding time for unfamiliar/legacy codebases |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<details>
+<summary><b>🎬 Movie Recommendation System</b></summary>
+<br>
+
+A content-based Machine Learning recommendation engine that suggests movies based on similarity scoring across metadata and user preference signals.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Pandas, Scikit-Learn |
+| **Scale** | Content-based filtering across large movie metadata datasets |
+| **Performance** | Optimized cosine similarity computation for fast recommendations |
+| **Security** | N/A — offline recommendation engine |
+| **Impact** | Demonstrates end-to-end recommendation system design |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<details>
+<summary><b>📧 Email Content Classifier</b></summary>
+<br>
+
+A Machine Learning model that automatically classifies emails using an NLP pipeline covering text cleaning, feature extraction, and classification.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, NLP, Scikit-Learn |
+| **Scale** | Trained across labeled email corpora |
+| **Performance** | High-precision classification via optimized feature extraction |
+| **Security** | Local processing, no external data transmission |
+| **Impact** | Automates email triage and reduces manual sorting |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<details>
+<summary><b>💡 AI Concept Generator</b></summary>
+<br>
+
+A Generative AI application that produces innovative software and startup ideas using structured prompt engineering techniques.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Generative AI |
+| **Scale** | Configurable for domain-specific ideation |
+| **Performance** | Low-latency prompt-response generation |
+| **Security** | No sensitive data storage |
+| **Impact** | Accelerates early-stage ideation for builders |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<details>
+<summary><b>🛡️ Phishing Website Detection</b></summary>
+<br>
+
+A Machine Learning cybersecurity application that predicts malicious websites through engineered URL and metadata features, deployed via a prediction API.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, Flask, Scikit-Learn |
+| **Scale** | Real-time single-URL and batch prediction support |
+| **Performance** | Lightweight inference suitable for API deployment |
+| **Security** | Core focus — phishing/malicious URL detection |
+| **Impact** | Adds a proactive layer of web security screening |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<details>
+<summary><b>📊 Data Analytics Dashboard</b></summary>
+<br>
+
+An interactive business intelligence dashboard combining SQL analytics with Power BI reporting for KPI tracking and insight generation.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, SQL, Power BI |
+| **Scale** | Multi-source data aggregation and reporting |
+| **Performance** | Optimized SQL queries for near real-time dashboards |
+| **Security** | Role-based access to reporting layers |
+| **Impact** | Enables data-driven business decision making |
+| **Repository** | [View Repository](YOUR_REPO_URL) |
+
+</details>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 💼 Experience
+
+### AI / Software Engineer — Freelance & Independent Projects
+**Duration:** Ongoing
+
+Designing and shipping end-to-end AI and full stack applications spanning Machine Learning pipelines, Generative AI tooling, and production backend systems.
+
+- Architected semantic search and RAG-based systems using vector embeddings
+- Built and deployed ML models via Flask/FastAPI prediction APIs
+- Developed full stack applications using Spring Boot and React
+- Implemented NLP pipelines for text classification and content analysis
+- Explored containerized deployment workflows with Docker and Kubernetes
+
+`Python` `Java` `Spring Boot` `React` `Machine Learning` `NLP` `FastAPI` `Docker`
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 Academic Excellence | Consistent strong academic performance in Computer Science |
+| 🤖 AI/ML Project Portfolio | Delivered multiple production-style ML & GenAI applications |
+| 💻 Full Stack Delivery | Built and shipped complete Java + React application stacks |
+| 📈 Continuous Learning | Actively upskilling in LLMs, RAG, and Cloud-Native engineering |
+
+</div>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 📜 Certifications
+
+**AWS**
+
+<p>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+**Oracle**
+
+<p>
+<img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+**NPTEL**
+
+<p>
+<img src="https://img.shields.io/badge/NPTEL%20Certified-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</p>
+
+**Cisco**
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 👨‍💻 Coding Profiles
+
+<p align="center">
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="YOUR_GFG_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="YOUR_CODECHEF_URL"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents & Agentic Workflows
+  - LangChain & Vector Databases
+  - Advanced Deep Learning
+
+building:
+  - Production-grade RAG applications
+  - Full stack AI-powered platforms
+  - Scalable backend systems with Spring Boot
+
+exploring:
+  - MLOps pipelines
+  - Kubernetes-based ML deployment
+  - Cloud-native AI architecture on AWS
+
+open_to:
+  - AI / ML Engineer opportunities
+  - Full Stack / Backend Engineer roles
+  - Open Source collaboration
+  - Freelance AI projects
+```
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**"Artificial Intelligence is not just about building smarter models — it's about engineering smarter systems that create real-world impact."**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
