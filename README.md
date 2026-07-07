@@ -16,11 +16,11 @@
 <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&logo=github"/>
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&logo=github"/>
-</p>
+</p> -->
 
 <div align="center">
 
