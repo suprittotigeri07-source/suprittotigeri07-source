@@ -273,7 +273,7 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
+<!-- </div>
 
 ## 🏅 GitHub Trophies
 
@@ -281,7 +281,7 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </p>
 
-<div align="center">
+<div align="center"> -->
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
