@@ -35,6 +35,7 @@ engineer:
   name: "Suprit Totiger"
   role: "AI Engineer & Full Stack Developer"
   education: "B.E. in Electronics and Communication Engineering"
+  college: "YOUR_COLLEGE_NAME"
   focus:
     - Designing production-grade Machine Learning & Generative AI systems
     - Building scalable full stack applications with Java (Spring Boot) & Python
@@ -57,28 +58,53 @@ engineer:
 
 ## ⚙️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Frontend**
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
+<img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-4C1D95?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-5B21B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-7C3AED?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-**Backend & Databases**
+### 🗄️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,postgresql,mysql,mongodb&theme=dark"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6D28D9?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-4C1D95?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-5B21B6?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4C1D95?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-**Cloud, DevOps & Tooling**
+### ☁️ Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/AWS-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-4C1D95?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-5B21B6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-4C1D95?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-5B21B6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-4C1D95?style=for-the-badge&logoColor=white"/>
 </p>
 
 <div align="center">
@@ -247,7 +273,7 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Excellence | Completed B.E. in Electronics and Communication Engineering with strong performance |
+| 🎓 Academic Excellence | Completed B.E. in Electronics and Communication Engineering from YOUR_COLLEGE_NAME with strong performance |
 | 🤖 AI/ML Project Portfolio | Delivered multiple production-style ML & GenAI applications |
 | 💻 Full Stack Delivery | Built and shipped complete Java + React application stacks |
 | 📈 Continuous Learning | Actively upskilling in LLMs, RAG, and Cloud-Native engineering |
@@ -273,7 +299,7 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!-- </div>
+</div>
 
 ## 🏅 GitHub Trophies
 
@@ -281,7 +307,7 @@ Designing and shipping end-to-end AI and full stack applications spanning Machin
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </p>
 
-<div align="center"> -->
+<div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
